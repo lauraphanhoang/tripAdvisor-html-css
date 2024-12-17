@@ -423,7 +423,7 @@ div.display-m {
 
 @media (max-width: 1184px) {
   header {
-    background-color: pink;
+    /* background-color: pink; */
   }
   .display-xs {
     display: none;
@@ -449,13 +449,13 @@ div.display-m {
     margin-right: -20px;
   }
   .article {
-    background-color: #35e1a1;
+    /* background-color: #35e1a1; */
   }
 }
 
 @media (max-width: 1024px) {
   header {
-    background-color: orange;
+    /* background-color: orange; */
   }
   header span {
     display: none;
@@ -504,7 +504,7 @@ div.display-m {
 
 @media (max-width: 768px) {
   header {
-    background-color: lightblue;
+    /* background-color: lightblue; */
   }
   header img {
     height: 30px;
